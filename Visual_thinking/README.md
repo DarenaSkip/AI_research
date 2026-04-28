@@ -17,3 +17,19 @@ Some later works (e.g. portraits) are not available, but these examples still re
 
 Conclusion
 This is not just drawing — it is early system-level thinking expressed visual
+
+Early Development
+
+I started by recreating small visual objects such as postage stamps.
+
+This required:
+– attention to fine detail
+– understanding proportions
+– reconstructing structure visually
+
+This became an early form of:
+– visual analysis
+– pattern recognition
+– structural thinking
+
+These skills later translated into system-level thinking used in programming and AI.
