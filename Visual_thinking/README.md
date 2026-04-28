@@ -24,7 +24,7 @@ What they show
 – patience and manual precision
 
 Why this matters
-Before coding and system design, this was an early form of: 
+Before coding and system design, this was already an early form of: 
 – visual analysis
 – structural thinking
 – pattern recognition
@@ -34,3 +34,5 @@ Some later works (e.g. portraits) are not available, but these examples still re
 
 Conclusion
 This is not just drawing — it is early system-level thinking expressed visually.
+
+This is not just drawing — it reflects an early form of system-level thinking.
