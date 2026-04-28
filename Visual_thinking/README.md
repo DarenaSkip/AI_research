@@ -1,8 +1,8 @@
-##Early Development
+## Early Development
 
 I started by recreating small visual objects such as postage stamps.
 
-##This required:
+## This required:
 
 – attention to fine detail
 
@@ -12,11 +12,11 @@ I started by recreating small visual objects such as postage stamps.
 
 These skills later translated into system-level thinking used in programming and AI.
 
-##Overview
+## Overview
 
 These drawings were created at a young age based on postage stamps and real objects.
 
-##What they show
+## What they show
 
 – attention to detail
 
@@ -26,7 +26,7 @@ These drawings were created at a young age based on postage stamps and real obje
 
 – patience and manual precision
 
-##Why this matters
+## Why this matters
 
 Before coding and system design, this was already an early form of: 
 
@@ -36,10 +36,10 @@ Before coding and system design, this was already an early form of:
 
 – pattern recognition
 
-##Context
+## Context
 
 Some later works (e.g. portraits) are not available, but these examples still reflect the same underlying thinking approach.
 
-##Conclusion
+## Conclusion
 
 This is not just drawing — it reflects an early form of system-level thinking.
