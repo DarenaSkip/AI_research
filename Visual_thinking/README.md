@@ -7,12 +7,6 @@ This required:
 – understanding proportions
 – reconstructing structure visually
 
-(This became an early form of:
-
-– visual analysis
-– pattern recognition
-– structural thinking)
-
 These skills later translated into system-level thinking used in programming and AI.
 
 Overview
